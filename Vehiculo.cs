@@ -28,13 +28,17 @@ namespace ReservadeVehiculos
 						{
 							double precio = 80;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						else
 						{
 							double precio = 60;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						break;
 					case 2:
@@ -42,12 +46,16 @@ namespace ReservadeVehiculos
 						{
 							double precio = 60;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						{
 							double precio = 40;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						break;
 					case 3:
@@ -55,12 +63,16 @@ namespace ReservadeVehiculos
 						{
 							double precio = 50;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						{
 							double precio = 40;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						break;
 					case 4:
@@ -68,12 +80,16 @@ namespace ReservadeVehiculos
 						{
 							double precio = 50;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						{
 							double precio = 35;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						break;
 					case 5:
@@ -81,9 +97,16 @@ namespace ReservadeVehiculos
 						{
 							double precio = 30;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						{
+							double precio = 30;
+							double resultado = precio * dias;
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 							Console.WriteLine("No tiene Promocion");
 						}
 						break;
@@ -92,12 +115,16 @@ namespace ReservadeVehiculos
 						{
 							double precio = 30;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						{
 							double precio = 20;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						break;
 					case 7:
@@ -105,9 +132,16 @@ namespace ReservadeVehiculos
 						{
 							double precio = 10;
 							double resultado = precio * dias;
-							Console.WriteLine(resultado.ToString("$ ###,###.00)"));
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 						}
 						{
+							double precio = 30;
+							double resultado = precio * dias;
+							Console.WriteLine();
+							Console.WriteLine(precio.ToString("$ ###.00 por dia"));
+							Console.WriteLine(resultado.ToString("Neto a Pagar: $ ###,###.00"));
 							Console.WriteLine("No tiene Promocion");
 						}
 						break;
