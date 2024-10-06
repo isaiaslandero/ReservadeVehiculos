@@ -1,0 +1,7 @@
+C:\Users\yorda\source\repos\ReservadeVehiculos\bin\Debug\ReservadeVehiculos.exe.config
+C:\Users\yorda\source\repos\ReservadeVehiculos\bin\Debug\ReservadeVehiculos.exe
+C:\Users\yorda\source\repos\ReservadeVehiculos\bin\Debug\ReservadeVehiculos.pdb
+C:\Users\yorda\source\repos\ReservadeVehiculos\obj\Debug\ReservadeVehiculos.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\ReservadeVehiculos\obj\Debug\ReservadeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\ReservadeVehiculos\obj\Debug\ReservadeVehiculos.exe
+C:\Users\yorda\source\repos\ReservadeVehiculos\obj\Debug\ReservadeVehiculos.pdb
