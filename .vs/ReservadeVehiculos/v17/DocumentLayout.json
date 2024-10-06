@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yorda\\source\\repos\\ReservadeVehiculos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AE447AB-938A-4D5F-8CA9-1AEB0A50854E}|ReservadeVehiculos.csproj|c:\\users\\yorda\\source\\repos\\reservadevehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE447AB-938A-4D5F-8CA9-1AEB0A50854E}|ReservadeVehiculos.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AE447AB-938A-4D5F-8CA9-1AEB0A50854E}|ReservadeVehiculos.csproj|c:\\users\\yorda\\source\\repos\\reservadevehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE447AB-938A-4D5F-8CA9-1AEB0A50854E}|ReservadeVehiculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\yorda\\source\\repos\\ReservadeVehiculos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\yorda\\source\\repos\\ReservadeVehiculos\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:20:07.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yorda\\source\\repos\\ReservadeVehiculos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
