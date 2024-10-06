@@ -18,8 +18,19 @@ namespace ReservadeVehiculos
 			Console.WriteLine("5 - Cuadraciclos");
 			Console.WriteLine("6 - Motos");
 			Console.WriteLine("7 - Biclicletas");
-			Console.WriteLine("Ingresar Numero de Vehiculo");
-			int seleccion = int.Parse(Console.ReadLine());
+			Console.Write("Ingresar Numero de Vehiculo:   ");
+			int tipovehiculo = int.Parse(Console.ReadLine());
+			Console.Write("Numero de Dias a usar   ");
+			int diasusados = int.Parse(Console.ReadLine());
+			Vehiculo vehiculo = new Vehiculo();
+			Vehiculo.Descuento descuento = new Vehiculo.Descuento
+			{
+				vehiculo = tipovehiculo,
+				dias = diasusados
+			};
+			descuento.AplicarDescuento();
+
+			Console.ReadKey();
 		}
 	}
 }
